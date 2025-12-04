@@ -12,7 +12,8 @@ langchain-core = "0.*"
 langchain-community = "0.*"
 langchain-text-splitters = "0.*"
 
-jupyter = "1.*"
+ipykernel = "^6.29"
+
 
 # 2. LLM 모델 관련 (Gemini & OpenAI)
 langchain-google-genai = "2.*"
